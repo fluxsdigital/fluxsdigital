@@ -1,166 +1,261 @@
-<div align="center">
+# ⚡ Flux
 
-# Olá, eu sou Jieff Cavalcanti 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" alt="Flux Tecnologia">
+</p>
 
-### Fundador da Flux • Analista de Sistemas • Desenvolvedor de Software
+<h3 align="center">
+  Tecnologia que transforma processos em crescimento.
+</h3>
 
-Transformo desafios de negócio em produtos digitais, automações e sistemas preparados para crescer.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jieff_Cavalcanti-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jieff/)
-[![E-mail](https://img.shields.io/badge/E--mail-Fale_comigo-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:jieff.cavalcanti@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?style=flat-square\&logo=whatsapp\&logoColor=white)](https://api.whatsapp.com/send?phone=5547974002478)
-
-</div>
-
----
-
-## Sobre mim
-
-Sou fundador da **Flux Soluções Digitais**, empresa focada no desenvolvimento de software, automação de processos e criação de produtos digitais.
-
-Atuo desde a compreensão do problema até a arquitetura e implementação da solução, conectando tecnologia, operação e objetivos de negócio.
-
-Tenho experiência com:
-
-* Desenvolvimento de aplicações web e mobile
-* Arquitetura e construção de APIs
-* Produtos SaaS e plataformas de gestão
-* Integrações entre sistemas e serviços externos
-* Automação de processos empresariais
-* Inteligência Artificial e agentes inteligentes
-* Infraestrutura, bancos de dados e implantação em nuvem
-
-Meu objetivo é construir soluções que não sejam apenas tecnicamente bem desenvolvidas, mas que também gerem eficiência, organização e resultados reais para as empresas.
+<p align="center">
+  <strong>Sistemas • Inteligência Artificial • Automação • Integrações</strong>
+</p>
 
 ---
 
-## Produtos e projetos
+## 🚀 Sobre a Flux
 
-### NR Nexus
+A **Flux** desenvolve soluções digitais para empresas que buscam **automatizar processos, melhorar operações e transformar tecnologia em resultado**.
 
-Plataforma SaaS voltada para engenheiros que realizam inspeções conforme a **NR-13**.
+Criamos sistemas personalizados, produtos digitais e soluções com Inteligência Artificial, combinando **engenharia de software, automação e visão de negócio**.
 
-A solução centraliza o cadastro de empresas, equipamentos, inspeções e emissão de laudos técnicos, permitindo acompanhar toda a operação em um único ambiente.
+Nosso objetivo é simplificar operações complexas e construir tecnologias que possam **evoluir junto com o negócio**.
 
-**Principais recursos:**
+---
 
-* Gestão de clientes e equipamentos
-* Inspeções de vasos de pressão e caldeiras
-* Checklists, medições e registro de anomalias
-* Emissão de laudos técnicos
-* Acompanhamento do andamento das inspeções
-* Fluxos comerciais, demonstrações e período de teste
+## 💡 O que fazemos
 
-### Flux Pet
+### 🖥️ Sistemas Web
 
-Sistema de gestão desenvolvido para apoiar a operação de pet shops.
+Desenvolvimento de sistemas web personalizados para necessidades específicas de cada negócio.
 
-O projeto reúne vendas, estoque, controle financeiro e indicadores importantes para a tomada de decisão.
+* Sistemas administrativos
+* Plataformas web
+* Dashboards
+* Portais
+* Sistemas internos
+* Micro SaaS
+* Aplicações escaláveis
 
-**Indicadores e recursos:**
+### 🤖 Inteligência Artificial
 
-* Faturamento e lucro
-* Margem por produto e categoria
-* CMV e custos operacionais
-* Controle de estoque
-* Ticket médio
-* Precificação e desempenho comercial
+Aplicação de IA para automatizar tarefas, melhorar processos e criar novas experiências digitais.
 
-### Flux Soluções Digitais
+* Agentes de IA
+* Assistentes inteligentes
+* Atendimento automatizado
+* Automação com IA
+* Integração com modelos de linguagem
+* IA aplicada a processos empresariais
 
-Na Flux, desenvolvemos sistemas e automações sob medida para pequenas e médias empresas.
+### ⚙️ Automação
 
-Nossa atuação envolve:
+Automatização de processos repetitivos e integração entre diferentes ferramentas e sistemas.
 
-* Sistemas web e aplicativos
 * Automação de processos
-* Integração entre CRM, ERP e APIs
-* Agentes de atendimento e vendas
-* Dashboards e métricas operacionais
-* Modernização de processos manuais
+* Workflows
+* Integrações
+* Webhooks
+* APIs
+* RPA
+* Automações com n8n
+
+### 🔗 Integrações
+
+Conectamos sistemas, plataformas e serviços para criar operações mais eficientes.
+
+* APIs REST
+* WhatsApp
+* CRM
+* Sistemas de atendimento
+* Gateways
+* Serviços externos
+* Integrações personalizadas
 
 ---
 
-## Tecnologias
+## 🧠 Nossa abordagem
 
-<div align="center">
+Na Flux, tecnologia começa pelo **problema que precisa ser resolvido**.
 
-### Desenvolvimento
-
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,nextjs,react,python,php" alt="Tecnologias de desenvolvimento" />
-
-### Dados e infraestrutura
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,docker,linux,aws,nginx,git,github" alt="Banco de dados e infraestrutura" />
-
-</div>
-
----
-
-## Engenharia de software
+Nosso processo busca transformar uma necessidade de negócio em uma solução tecnológica estruturada:
 
 ```text
-Arquitetura de Software  •  APIs REST        •  Clean Architecture
-SOLID                    •  Design Patterns  •  Integrações
-Mensageria               •  Docker           •  CI/CD
-Cloud                    •  Bancos de Dados  •  Automação
+Problema
+   ↓
+Briefing
+   ↓
+Levantamento de requisitos
+   ↓
+Arquitetura
+   ↓
+UX / UI
+   ↓
+Desenvolvimento
+   ↓
+Integrações
+   ↓
+Automação
+   ↓
+Deploy
+   ↓
+Evolução
 ```
 
-Tenho atenção especial à organização do código, segurança, escalabilidade e facilidade de evolução dos produtos.
+A ideia é construir soluções que não apenas funcionem hoje, mas que possam ser **mantidas, evoluídas e escaladas**.
 
 ---
 
-## Inteligência Artificial e automação
+## 🏗️ Tecnologia
 
-Exploro a aplicação prática da Inteligência Artificial em produtos e operações empresariais.
+### 💻 Desenvolvimento
 
-Meu trabalho nessa área inclui:
+<p align="left">
 
-* Agentes inteligentes para atendimento e vendas
-* Automação de processos operacionais
-* Integração com modelos de linguagem
-* Assistentes conectados a APIs e bancos de dados
-* Qualificação e acompanhamento automatizado de leads
-* Uso de IA no desenvolvimento de software
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-Acredito que a IA gera mais valor quando está integrada aos processos reais da empresa e ajuda pessoas a tomarem decisões melhores.
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+</p>
+
+### 🗄️ Banco de Dados
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+
+</p>
+
+### ☁️ Infraestrutura
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+</p>
+
+### 🔄 Integrações & Automação
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+
+</p>
 
 ---
 
-## GitHub
+## 🤖 IA aplicada aos negócios
 
-<div align="center">
+A Flux utiliza Inteligência Artificial como uma camada de **automação e inteligência operacional**.
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=jieff&show_icons=true&theme=transparent&hide_border=true&title_color=f97316&icon_color=f97316&text_color=8b949e&locale=pt-br"
-alt="Estatísticas do GitHub"
-/>
+Entre as possibilidades:
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=jieff&layout=compact&theme=transparent&hide_border=true&title_color=f97316&text_color=8b949e&locale=pt-br"
-alt="Linguagens mais utilizadas"
-/>
+```text
+Atendimento
+    ↓
+IA
+    ↓
+Interpretação
+    ↓
+Tomada de ação
+    ↓
+Integração com sistemas
+    ↓
+Automação
+```
 
-</div>
+Isso permite transformar processos manuais em fluxos mais inteligentes e automatizados.
 
 ---
 
-## Vamos conversar?
+## 📦 Produtos e soluções
 
-Se você quer desenvolver um produto digital, automatizar processos ou integrar sistemas, entre em contato comigo.
+A Flux atua na construção de diferentes tipos de soluções digitais:
 
-<div align="center">
+* 🌐 Sistemas Web
+* 📱 Aplicativos
+* 📊 Dashboards
+* 🔌 APIs e integrações
+* 🤖 Agentes de Inteligência Artificial
+* ⚙️ Automações
+* 🧩 Micro SaaS
+* ☁️ Infraestrutura e ambientes de produção
+* 🏢 Sistemas personalizados para empresas
 
-[![E-mail](https://img.shields.io/badge/Enviar_um_e--mail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:jieff.cavalcanti@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Conectar_no_LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jieff/)
-[![WhatsApp](https://img.shields.io/badge/Conversar_no_WhatsApp-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](https://api.whatsapp.com/send?phone=5547974002478)
+---
 
-<br>
+## 🎯 Para quem desenvolvemos
 
-**Flux Soluções Digitais**
+Trabalhamos principalmente com:
 
-*Tecnologia conectada às necessidades reais do negócio.*
+* Pequenas empresas
+* Startups
+* Negócios em crescimento
+* Empresas que precisam automatizar operações
+* Empresas que precisam integrar diferentes sistemas
+* Negócios que desejam incorporar Inteligência Artificial aos seus processos
 
-</div>
+---
+
+## 🌱 Construindo tecnologia para crescer
+
+Acreditamos que tecnologia não deve adicionar complexidade ao negócio.
+
+Ela deve:
+
+**Simplificar.**
+
+**Automatizar.**
+
+**Conectar.**
+
+**Escalar.**
+
+---
+
+## 📫 Contato
+
+<p align="left">
+
+<a href="mailto:contato@flux.etc.br">
+<img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/flux.software/">
+<img src="https://img.shields.io/badge/Instagram-Flux-111111?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <strong>⚡ Flux</strong>
+  <br>
+  <i>Escale com inteligência.</i>
+</p>
