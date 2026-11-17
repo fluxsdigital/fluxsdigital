@@ -10,7 +10,7 @@ Desenvolvemos produtos digitais, sistemas personalizados e automações que tran
 
 [![E-mail](https://img.shields.io/badge/E--mail-Fale_com_a_Flux-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:jieff.cavalcanti@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conheça_a_Flux-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jieff/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Fale_conosco-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](https://api.whatsapp.com/send?phone=5547974002478)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Fale_conosco-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](https://api.whatsapp.com/send?phone=5547988312654)
 
 </div>
 
@@ -159,8 +159,8 @@ Se sua empresa possui processos manuais, sistemas que não se comunicam ou uma i
 
 <div align="center">
 
-[![E-mail](https://img.shields.io/badge/Enviar_um_e--mail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:jieff.cavalcanti@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/Conversar_no_WhatsApp-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](https://api.whatsapp.com/send?phone=5547974002478)
+[![E-mail](https://img.shields.io/badge/Enviar_um_e--mail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:fluxsdigitais@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/Conversar_no_WhatsApp-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](https://api.whatsapp.com/send?phone=5547988312654)
 
 <br>
 
